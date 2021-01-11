@@ -157,5 +157,5 @@ LOGIN_REDIRECT_URL = '/'
 
 CART_ID = 'cart_in_session'
 
-IAMPORT_KEY = get_secret('SECRET_KEY')
+IAMPORT_KEY = get_secret('IAMPORT_KEY')
 IAMPORT_SECRET = get_secret('IAMPORT_SECRET')
